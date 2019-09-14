@@ -1,2 +1,2 @@
 # git-practice
-A Simple tuturials on using git commands
+A Simple tutorials on using git commands
